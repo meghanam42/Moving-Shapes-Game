@@ -1,0 +1,11 @@
+Name: Meghana Moturu
+UPI: mmot335
+ID number: 938805776
+
+1).The assignment overall took me 18 days to complete, I had started it on the 7th of April and completed it on the 25th of April.
+2).The areas of the assignment that I found the most difficult were the Moving Checker stage and the Moving Pattern stage. For the Moving Checker phase.
+   It was mainly difficult as I initally did not understand how to implement the code, however once my friend had explained it to me, 
+   I was able to complete the MovingChecker class. While for the Moving Pattern class, it was perhaps due to being confused on what kind of pattern to draw 
+   and how I would implement it. However this was solved with a simple rectangle within a rectangle pattern (explained in the MovingPattern class).
+   The easy parts were the Moving Rectangle, Oval and Gradient class. 
+4).The topics in the course that helped me understand the assignment the most were the topics about Inhertiance i.e. superclass - subclass structure.
